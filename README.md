@@ -11,5 +11,4 @@ Download the geckodriver.exe for selenium from https://github.com/mozilla/geckod
 
 
 
---After downloading simply modily the line 25 of the code (change the filename to the driver that you just added to the project directory)i.e. **path = os.getcwd() + '\[name of the driver].exe'
-
+--After downloading simply modily the line 25 of the code (change the filename to the driver that you just added to the project directory)i.e. **path = os.getcwd() + "\[name of the driver].exe"**
