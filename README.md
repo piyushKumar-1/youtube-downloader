@@ -1,11 +1,11 @@
 # youtube-downloader
 
-if you use chrome browser:
+**if you use chrome browser:**
 
 Download the chromedriver.exe for selenium from https://chromedriver.chromium.org/downloads according to your chrome browser version and operating system then place it in the same directory as the main python file(yt-downloader.py)
 
 
-if you use firefox browser:
+**if you use firefox browser:**
 
 Download the geckodriver.exe for selenium from https://github.com/mozilla/geckodriver/releases according to your operating system and then place it in the same directory as the main python file(yt-downloader.py)
 
